@@ -1,7 +1,4 @@
-#----------------------------------------------
-# Stay Alive!
-# More programs at UsingPython.com/programs
-#----------------------------------------------
+
 
 #import the modules we need, for creating a GUI
 import tkinter
