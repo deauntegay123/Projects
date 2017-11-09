@@ -1,6 +1,4 @@
 #----------------------------------------------
-# Conway's Game of Life
-# More programs at UsingPython.com/programs
 #----------------------------------------------
 
 import random
